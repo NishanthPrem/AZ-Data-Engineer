@@ -6,6 +6,8 @@ This project demonstrates the implementation of a robust Azure Data Pipeline to 
 ![alt text](azure_pipeline.png)
 
 ![alt text](data_factory.png)
+
+![alt text](dashboard.png)
 ---
 
 ## Key Features
