@@ -3,6 +3,9 @@
 ## Overview
 This project demonstrates the implementation of a robust Azure Data Pipeline to automate data ingestion, transformation, and visualization. The pipeline integrates data from GitHub into Azure Data Lake using Azure Data Factory, transforms the data in Azure Databricks, and makes it available for analytics in Azure Synapse Analytics. Finally, the processed data is visualized in Power BI to enable insightful reporting and data-driven decision-making.
 
+![alt text](azure_pipeline.png)
+
+![alt text](data_factory.png)
 ---
 
 ## Key Features
